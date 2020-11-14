@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "mr_farawe",
+    "MONGO_PASSWORD": "Bolanle01",
+    "MONGO_DEFAULT_DATABASE": "team-cruise"
+  }
+}
